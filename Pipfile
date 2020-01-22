@@ -4,28 +4,16 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-<<<<<<< HEAD
-pylint = "*"
-
-[packages]
-=======
 
 [packages]
 flask = "*"
->>>>>>> recommiting pip was broken
 flask-sqlalchemy = "*"
 flask-cors = "*"
 flask-marshmallow = "*"
 flask-heroku = "*"
 gunicorn = "*"
 marshmallow-sqlalchemy = "*"
-<<<<<<< HEAD
-
-[requires]
-python_version = "3.8"
-=======
 psycopg2-binary = "*"
 
 [requires]
 python_version = "3.8"
->>>>>>> recommiting pip was broken
